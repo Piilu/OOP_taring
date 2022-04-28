@@ -1,0 +1,11 @@
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_täring\piil_rainer_täring\bin\Debug\piil_rainer_täring.exe.config
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_täring\piil_rainer_täring\bin\Debug\piil_rainer_täring.exe
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_täring\piil_rainer_täring\bin\Debug\piil_rainer_täring.pdb
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_täring\piil_rainer_täring\obj\Debug\piil_rainer_täring.csproj.AssemblyReference.cache
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_täring\piil_rainer_täring\obj\Debug\piil_rainer_täring.csproj.SuggestedBindingRedirects.cache
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_täring\piil_rainer_täring\obj\Debug\piil_rainer_täring.Form1.resources
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_täring\piil_rainer_täring\obj\Debug\piil_rainer_täring.Properties.Resources.resources
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_täring\piil_rainer_täring\obj\Debug\piil_rainer_täring.csproj.GenerateResource.cache
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_täring\piil_rainer_täring\obj\Debug\piil_rainer_täring.csproj.CoreCompileInputs.cache
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_täring\piil_rainer_täring\obj\Debug\piil_rainer_täring.exe
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_täring\piil_rainer_täring\obj\Debug\piil_rainer_täring.pdb
